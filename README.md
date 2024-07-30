@@ -1,4 +1,4 @@
-## Patika Yol Arkadaşı : Tatil uygulaması
+## Patika Yol Arkadaşı : Tatil Uygulaması
 
 Kod Bloğu: [Holiday.cs](https://github.com/batuhan-uzun/HolidayApp/blob/master/Holiday.cs)
 
